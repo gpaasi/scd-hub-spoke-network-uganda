@@ -1,0 +1,6 @@
+route_feasibility,route_feasibility_group,n_routes,pct_routes
+functional,stronger_linkage,66,39.3
+long,distance_constrained_linkage,7,4.2
+moderate_functional,stronger_linkage,24,14.3
+moderate_partial,partial_linkage,26,15.5
+partial,partial_linkage,45,26.8

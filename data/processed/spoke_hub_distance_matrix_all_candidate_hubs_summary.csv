@@ -1,0 +1,2 @@
+route_set,spokes,hubs,candidate_routes,min_distance_km,median_distance_km,mean_distance_km,max_distance_km,routes_0_to_25_km,routes_25_to_50_km,routes_50_to_100_km,routes_over_100_km,pct_0_to_25_km,pct_25_to_50_km,pct_50_to_100_km,pct_over_100_km
+all_candidate_hubs_280,168,280,47040,0,224.1,240,674,926,1576,4619,39919,2,3.4,9.8,84.9

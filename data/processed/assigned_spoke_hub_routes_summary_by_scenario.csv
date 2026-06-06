@@ -1,0 +1,6 @@
+scenario,scenario_label,assigned_spokes,assigned_routes,assigned_hubs_used,median_distance_km,mean_distance_km,min_distance_km,max_distance_km,within_25_km,within_50_km,within_100_km,pct_within_25_km,pct_within_50_km,pct_within_100_km,weak_or_long_routes,long_routes,very_long_routes,pct_weak_or_long_routes
+full_score_4,"Full hubs, service score =4",168,168,23,34,36.5,0,104.6,68,115,167,40.5,68.5,99.4,53,53,1,31.5
+primary_score_ge_2,"Primary hubs, service score >=2",168,168,62,14.4,17.2,0,73.9,111,161,168,66.1,95.8,100,78,7,0,46.4
+strong_score_ge_3,"Strong hubs, service score >=3",168,168,40,26.4,29.5,0,89.7,79,132,168,47,78.6,100,36,36,0,21.4
+transfusion_ready,Transfusion-ready hubs,168,168,64,11.4,14.8,0,51.1,119,167,168,70.8,99.4,100,36,1,0,21.4
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",168,168,90,1.6,7.8,0,51.1,152,167,168,90.5,99.4,100,46,1,0,27.4

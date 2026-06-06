@@ -1,0 +1,6 @@
+map_id,file_name,description
+Figure map 1,map_01_primary_hub_spoke_network.png,Overview of primary assigned SCD hub-and-spoke network
+Figure map 2,map_02_route_feasibility.png,Assigned routes classified by feasibility
+Figure map 3,map_03_hub_workload.png,Hub workload map based on linked NBS spokes
+Figure map 4,map_04_weak_or_long_routes.png,Weak or long route map for priority pathway interpretation
+Figure map 5,map_05_hub_readiness_and_spokes.png,Assigned hub readiness and linked-spoke workload

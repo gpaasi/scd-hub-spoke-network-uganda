@@ -1,0 +1,5 @@
+route_set,distance_band,n_routes,pct_routes
+all_candidate_hubs_280,0_to_25_km,926,2
+all_candidate_hubs_280,25_to_50_km,1576,3.4
+all_candidate_hubs_280,50_to_100_km,4619,9.8
+all_candidate_hubs_280,over_100_km,39919,84.9

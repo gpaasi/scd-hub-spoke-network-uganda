@@ -1,0 +1,5 @@
+route_risk_category,hub_priority_flag,n_hubs,pct_hubs
+high_route_risk,high_route_risk_hub,2,3.2
+high_route_risk,partial_service_hub_with_route_risk,27,43.5
+low_route_risk,standard_network_hub,32,51.6
+moderate_route_risk,high_workload_hub,1,1.6

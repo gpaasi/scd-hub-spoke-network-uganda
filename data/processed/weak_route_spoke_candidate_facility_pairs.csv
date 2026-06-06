@@ -1,0 +1,208 @@
+spoke_id,candidate_facility_id,candidate_distance_km,spoke_name,spoke_type,assigned_hub_id,assigned_hub_name,assigned_distance_km,route_feasibility,facility_name,facility_level,ownership,subregion,longitude,latitude,cl_binary,hu_binary,nbs_binary,tr_binary,hub_service_score,hub_service_deficit,hub_readiness,eligible_primary_hub
+SPOKE_0036,HF2375,19.7,Alebtong HC IV,existing_nbs,HF1868,Alebtong HC IV,0,partial,Orum HC IV,HC IV,Government,LANGO,33.34886,2.40098,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0051,HF1130,11.5,Budaka HC IV,existing_nbs,HF0998,Budaka HC IV,0,partial,Kabasa Memorial HOSPITAL,General Hospital,Private Not For Profit,BUKEDI,34.0327,0.95557,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0051,HF1405,17.3,Budaka HC IV,existing_nbs,HF0998,Budaka HC IV,0,partial,Kibuku HC IV,HC IV,Government,BUKEDI,33.79967,1.05046,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0051,HF1533,24.8,Budaka HC IV,existing_nbs,HF0998,Budaka HC IV,0,partial,Namatala HC IV,HC IV,Government,BUGISU,34.16483,1.085432,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0051,HF1600,20.4,Budaka HC IV,existing_nbs,HF0998,Budaka HC IV,0,partial,Butebo HC IV,HC IV,Government,BUKEDI,33.918499,1.201598,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0054,HF1492,10.6,Bugobero HC IV,existing_nbs,HF1483,Bugobero HC IV,0,partial,Bubulo HC IV,HC IV,Government,BUGISU,34.28036,0.9567,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0054,HF1532,24.7,Bugobero HC IV,existing_nbs,HF1483,Bugobero HC IV,0,partial,Cure Children's Hospital,General Hospital,Private Not For Profit,BUGISU,34.171724,1.073644,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0054,HF1722,14.7,Bugobero HC IV,existing_nbs,HF1483,Bugobero HC IV,0,partial,Mukuju HC IV,HC IV,Government,BUKEDI,34.190183,0.747797,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0054,HF1751,19,Bugobero HC IV,existing_nbs,HF1483,Bugobero HC IV,0,partial,Benedictine Eye HOSPITAL,General Hospital,Government,BUKEDI,34.19622,0.70331,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0054,HF1754,21.4,Bugobero HC IV,existing_nbs,HF1483,Bugobero HC IV,0,partial,St. Anthony'S Tororo HOSPITAL,General Hospital,Private Not For Profit,BUKEDI,34.179151,0.686363,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0055,HF0008,11.3,Buikwe St. Charles Lwanga HOSPITAL,existing_nbs,HF0002,Buikwe St. Charles Lwanga HOSPITAL,0,partial,Lugazi Scoul HOSPITAL,General Hospital,Private For Profit,NORTH BUGANDA,32.93794,0.37751,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0055,HF0019,16.7,Buikwe St. Charles Lwanga HOSPITAL,existing_nbs,HF0002,Buikwe St. Charles Lwanga HOSPITAL,0,partial,Nkokonjeru HOSPITAL,General Hospital,Private Not For Profit,NORTH BUGANDA,32.92302,0.23599,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0055,HF0022,13.6,Buikwe St. Charles Lwanga HOSPITAL,existing_nbs,HF0002,Buikwe St. Charles Lwanga HOSPITAL,0,partial,St. Francis Nyenga HOSPITAL,General Hospital,Private Not For Profit,NORTH BUGANDA,33.14065,0.39505,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0055,HF1207,24.4,Buikwe St. Charles Lwanga HOSPITAL,existing_nbs,HF0002,Buikwe St. Charles Lwanga HOSPITAL,0,partial,Budondo HC IV,HC IV,Government,BUSOGA,33.16165,0.51725,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0055,HF1246,24.1,Buikwe St. Charles Lwanga HOSPITAL,existing_nbs,HF0002,Buikwe St. Charles Lwanga HOSPITAL,0,partial,Walukuba HC IV,HC IV,Government,BUSOGA,33.22508,0.43824,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0055,HF1249,24.1,Buikwe St. Charles Lwanga HOSPITAL,existing_nbs,HF0002,Buikwe St. Charles Lwanga HOSPITAL,0,partial,Mpumudde HC IV,HC IV,Government,BUSOGA,33.21235,0.45993,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0059,HF2490,4.4,Busaru HC IV,existing_nbs,HF2494,Busaru HC IV,0,partial,Bundibugyo Hospital,General Hospital,Government,TORO,30.06354,0.70216,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0059,HF2501,12.3,Busaru HC IV,existing_nbs,HF2494,Busaru HC IV,0,partial,Kikyo HC IV,HC IV,Government,TORO,30.12337,0.74551,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0059,HF2753,14.9,Busaru HC IV,existing_nbs,HF2494,Busaru HC IV,0,partial,Bukuku HC IV,HC IV,Government,TORO,30.178214,0.66431,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0059,HF3214,24.9,Busaru HC IV,existing_nbs,HF2494,Busaru HC IV,0,partial,Karugutu HC IV,HC IV,Government,TORO,30.239275,0.778007,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0060,HF1130,14.7,Busiu HC IV,existing_nbs,HF1530,Busiu HC IV,0,partial,Kabasa Memorial HOSPITAL,General Hospital,Private Not For Profit,BUKEDI,34.0327,0.95557,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0060,HF1492,13.9,Busiu HC IV,existing_nbs,HF1530,Busiu HC IV,0,partial,Bubulo HC IV,HC IV,Government,BUGISU,34.28036,0.9567,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0060,HF1524,21.4,Busiu HC IV,existing_nbs,HF1530,Busiu HC IV,0,partial,Bufumbo HC IV,HC IV,Government,BUGISU,34.23246,1.10115,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0060,HF1532,16.8,Busiu HC IV,existing_nbs,HF1530,Busiu HC IV,0,partial,Cure Children's Hospital,General Hospital,Private Not For Profit,BUGISU,34.171724,1.073644,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0060,HF1533,18.1,Busiu HC IV,existing_nbs,HF1530,Busiu HC IV,0,partial,Namatala HC IV,HC IV,Government,BUGISU,34.16483,1.085432,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0060,HF1722,19.5,Busiu HC IV,existing_nbs,HF1530,Busiu HC IV,0,partial,Mukuju HC IV,HC IV,Government,BUKEDI,34.190183,0.747797,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0060,HF1734,22.4,Busiu HC IV,existing_nbs,HF1530,Busiu HC IV,0,partial,Nagongera HC IV,HC IV,Government,BUKEDI,34.024967,0.772335,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0060,HF1751,24.5,Busiu HC IV,existing_nbs,HF1530,Busiu HC IV,0,partial,Benedictine Eye HOSPITAL,General Hospital,Government,BUKEDI,34.19622,0.70331,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0202,5.1,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,International Hospital Kampala (IHK),General Hospital,Private For Profit,KAMPALA,32.61153,0.30528,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0216,8.8,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Kiruddu,NR Hospital,Government,KAMPALA,32.61274,0.24828,0,0,1,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0062,HF0252,7.2,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Kadic HOSPITAL,General Hospital,Private For Profit,KAMPALA,32.603411,0.352746,1,1,1,1,4,0,full_hub_score_4,TRUE
+SPOKE_0062,HF0253,4.3,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Murchison Bay HOSPITAL,General Hospital,Government,KAMPALA,32.633478,0.283601,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0062,HF0262,2,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Benedict Medical centre HC IV,HC IV,Private Not For Profit,KAMPALA,32.64301,0.30274,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0062,HF0264,5.7,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Naguru Hospital - China Uganda Friendship,RR Hospital,Government,KAMPALA,32.60657,0.32898,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0283,12.6,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Namungoona Orthodox Hospital HC III,General Hospital,Private Not For Profit,KAMPALA,32.54522,0.33817,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0678,11.3,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Mukono T.C. HC IV,HC IV,Government,KAMPALA,32.74702,0.36091,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0698,19.6,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Kojja HC IV,HC IV,Government,KAMPALA,32.79638,0.20796,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0873,24,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Buwambo HC IV,HC IV,Government,KAMPALA,32.54581,0.50131,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0889,6.8,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Uganda Martyrs HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,32.653,0.37667,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0062,HF0921,18.9,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Saidina Abubakar Islamic HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,32.53495,0.43534,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0062,HF0926,14.6,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Kasangati HC IV,HC IV,Government,KAMPALA,32.60107,0.43513,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0940,15.2,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Mildmay Uganda HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,32.548866,0.229957,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0948,11.7,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Ndejje HC IV,HC IV,Government,KAMPALA,32.5789,0.24284,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0062,HF0957,21.8,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,0,partial,Wakiso HC IV,HC IV,Government,KAMPALA,32.4774,0.39639,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0069,HF1269,15.6,Dokolo HC IV,existing_nbs,HF2019,Dokolo HC IV,0,partial,Kaberamaido HC IV,HC IV,Government,TESO,33.16359,1.77863,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0071,HF0537,14.6,Gombe HOSPITAL,existing_nbs,HF0052,Gombe HOSPITAL,0,partial,Mwera HC IV,HC IV,Government,NORTH BUGANDA,32.12009,0.31608,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0071,HF0583,23.6,Gombe HOSPITAL,existing_nbs,HF0052,Gombe HOSPITAL,0,partial,Mpigi HC IV,HC IV,Government,SOUTH BUGANDA,32.32213,0.22554,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0071,HF0588,22.8,Gombe HOSPITAL,existing_nbs,HF0052,Gombe HOSPITAL,0,partial,Nkozi HOSPITAL,General Hospital,Private Not For Profit,SOUTH BUGANDA,32.01653,0.00257,1,0,0,1,2,0.5,partial_hub_score_2,TRUE
+SPOKE_0079,HF0362,15.7,Kalagala HC IV,existing_nbs,HF0376,Kalagala HC IV,0,partial,Bombo General Military HOSPITAL,General Hospital,Government,NORTH BUGANDA,32.53631,0.58475,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0079,HF0401,12.6,Kalagala HC IV,existing_nbs,HF0376,Kalagala HC IV,0,partial,Luwero HC IV,HC IV,Government,NORTH BUGANDA,32.606311,0.683861,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0079,HF0402,7.8,Kalagala HC IV,existing_nbs,HF0376,Kalagala HC IV,0,partial,Bishop Asili Ceaser HC IV,HC IV,Private Not For Profit,NORTH BUGANDA,32.66096,0.663464,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0079,HF0680,14,Kalagala HC IV,existing_nbs,HF0376,Kalagala HC IV,0,partial,St. Francis HOSPITAL Naggalama,General Hospital,Private Not For Profit,KAMPALA,32.78198,0.52425,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0079,HF0873,17.8,Kalagala HC IV,existing_nbs,HF0376,Kalagala HC IV,0,partial,Buwambo HC IV,HC IV,Government,KAMPALA,32.54581,0.50131,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0079,HF0889,24.2,Kalagala HC IV,existing_nbs,HF0376,Kalagala HC IV,0,partial,Uganda Martyrs HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,32.653,0.37667,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0079,HF0921,23.6,Kalagala HC IV,existing_nbs,HF0376,Kalagala HC IV,0,partial,Saidina Abubakar Islamic HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,32.53495,0.43534,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0079,HF0926,19.5,Kalagala HC IV,existing_nbs,HF0376,Kalagala HC IV,0,partial,Kasangati HC IV,HC IV,Government,KAMPALA,32.60107,0.43513,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0086,HF0022,24.3,Kangulumira HC IV,existing_nbs,HF0298,Kangulumira HC IV,0,partial,St. Francis Nyenga HOSPITAL,General Hospital,Private Not For Profit,NORTH BUGANDA,33.14065,0.39505,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0086,HF1207,16.3,Kangulumira HC IV,existing_nbs,HF0298,Kangulumira HC IV,0,partial,Budondo HC IV,HC IV,Government,BUSOGA,33.16165,0.51725,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0086,HF1234,17.2,Kangulumira HC IV,existing_nbs,HF0298,Kangulumira HC IV,0,partial,Buwenge NGO Hospital,General Hospital,Private Not For Profit,BUSOGA,33.17278,0.64781,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0086,HF1249,24.5,Kangulumira HC IV,existing_nbs,HF0298,Kangulumira HC IV,0,partial,Mpumudde HC IV,HC IV,Government,BUSOGA,33.21235,0.45993,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0086,HF1322,11.6,Kangulumira HC IV,existing_nbs,HF0298,Kangulumira HC IV,0,partial,Nankandulo HC IV,HC IV,Government,BUSOGA,33.07762,0.67919,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0098,HF1063,9.6,Kigandalo HC IV,existing_nbs,HF1515,Kigandalo HC IV,0,partial,Nankoma HC IV,HC IV,Government,BUSOGA,33.678343,0.454007,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0106,HF1994,22.5,Koboko Hospital,existing_nbs,HF2145,Koboko Hospital,0,partial,Omugo HC IV,HC IV,Government,WEST NILE,31.11511,3.27945,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0106,HF2445,24.9,Koboko Hospital,existing_nbs,HF2145,Koboko Hospital,0,partial,Yumbe Hospital,General Hospital,Government,WEST NILE,31.18113,3.43922,0,0,1,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0115,HF1269,15.7,Lwala HOSPITAL,existing_nbs,HF1276,Lwala HOSPITAL,0,partial,Kaberamaido HC IV,HC IV,Government,TESO,33.16359,1.77863,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0115,HF1688,20.7,Lwala HOSPITAL,existing_nbs,HF1276,Lwala HOSPITAL,0,partial,ATIRIR HC IV,HC IV,Government,TESO,33.45841,1.90514,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0124,HF0537,12.6,Mityana HOSPITAL,existing_nbs,HF0550,Mityana HOSPITAL,0,partial,Mwera HC IV,HC IV,Government,NORTH BUGANDA,32.12009,0.31608,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0124,HF0540,20.8,Mityana HOSPITAL,existing_nbs,HF0550,Mityana HOSPITAL,0,partial,Kyantungo HC IV,HC IV,Government,NORTH BUGANDA,32.02506,0.585167,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0124,HF0560,15.9,Mityana HOSPITAL,existing_nbs,HF0550,Mityana HOSPITAL,0,partial,Ssekanyonyi HC IV,HC IV,Government,NORTH BUGANDA,32.14177,0.50056,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0135,HF0741,8.1,Nakasongola HC IV,existing_nbs,HF0752,Nakasongola HC IV,0,partial,Nakasongola Military HOSPITAL,General Hospital,Government,NORTH BUGANDA,32.49771,1.39135,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0155,HF1629,18.8,Serere HC IV,existing_nbs,HF1643,Serere HC IV,0,partial,Apapai HC IV,HC IV,Government,TESO,33.29067,1.52954,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0160,HF0537,12.3,"St. Francis,  HC III",existing_nbs,HF0550,Mityana HOSPITAL,0.849,partial,Mwera HC IV,HC IV,Government,NORTH BUGANDA,32.12009,0.31608,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0160,HF0540,20.6,"St. Francis,  HC III",existing_nbs,HF0550,Mityana HOSPITAL,0.849,partial,Kyantungo HC IV,HC IV,Government,NORTH BUGANDA,32.02506,0.585167,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0160,HF0560,15.2,"St. Francis,  HC III",existing_nbs,HF0550,Mityana HOSPITAL,0.849,partial,Ssekanyonyi HC IV,HC IV,Government,NORTH BUGANDA,32.14177,0.50056,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0118,HF0537,9.8,Magala HC III,existing_nbs,HF0550,Mityana HOSPITAL,3.15,partial,Mwera HC IV,HC IV,Government,NORTH BUGANDA,32.12009,0.31608,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0118,HF0540,22.4,Magala HC III,existing_nbs,HF0550,Mityana HOSPITAL,3.15,partial,Kyantungo HC IV,HC IV,Government,NORTH BUGANDA,32.02506,0.585167,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0118,HF0560,15,Magala HC III,existing_nbs,HF0550,Mityana HOSPITAL,3.15,partial,Ssekanyonyi HC IV,HC IV,Government,NORTH BUGANDA,32.14177,0.50056,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0077,HF1130,17.8,Kadama HC III,existing_nbs,HF0998,Budaka HC IV,7.322,partial,Kabasa Memorial HOSPITAL,General Hospital,Private Not For Profit,BUKEDI,34.0327,0.95557,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0077,HF1405,10.2,Kadama HC III,existing_nbs,HF0998,Budaka HC IV,7.322,partial,Kibuku HC IV,HC IV,Government,BUKEDI,33.79967,1.05046,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0077,HF1600,20.4,Kadama HC III,existing_nbs,HF0998,Budaka HC IV,7.322,partial,Butebo HC IV,HC IV,Government,BUKEDI,33.918499,1.201598,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0140,HF1063,0,Nankoma HC IV,existing_nbs,HF1515,Kigandalo HC IV,9.553,partial,Nankoma HC IV,HC IV,Government,BUSOGA,33.678343,0.454007,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0140,HF1165,21.3,Nankoma HC IV,existing_nbs,HF1515,Kigandalo HC IV,9.553,partial,Busesa HC IV,HC IV,Government,BUSOGA,33.59166,0.62609,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0130,HF1130,1.7,Nabiganda HC III,existing_nbs,HF0998,Budaka HC IV,9.864,partial,Kabasa Memorial HOSPITAL,General Hospital,Private Not For Profit,BUKEDI,34.0327,0.95557,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0130,HF1532,20,Nabiganda HC III,existing_nbs,HF0998,Budaka HC IV,9.864,partial,Cure Children's Hospital,General Hospital,Private Not For Profit,BUGISU,34.171724,1.073644,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0130,HF1533,20.2,Nabiganda HC III,existing_nbs,HF0998,Budaka HC IV,9.864,partial,Namatala HC IV,HC IV,Government,BUGISU,34.16483,1.085432,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0130,HF1734,21.7,Nabiganda HC III,existing_nbs,HF0998,Budaka HC IV,9.864,partial,Nagongera HC IV,HC IV,Government,BUKEDI,34.024967,0.772335,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0158,HF0966,19.5,St. Francis Acumet HC III,existing_nbs,HF0975,Kapelebyong HC IV,11.312,partial,Amuria HC IV,HC IV,Government,TESO,33.64034,2.03481,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0116,HF0039,20.5,Lwengo Kinoni HC III GOVT,existing_nbs,HF0854,Bamu HOSPITAL,12.652,partial,Butenga HC IV,HC IV,Government,SOUTH BUGANDA,31.67238,-0.19553,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0116,HF0429,15.7,Lwengo Kinoni HC III GOVT,existing_nbs,HF0854,Bamu HOSPITAL,12.652,partial,Kiwangala HC IV,HC IV,Government,SOUTH BUGANDA,31.51589,-0.47508,1,1,0,0,2,0.5,partial_hub_score_2,TRUE
+SPOKE_0116,HF0446,16.8,Lwengo Kinoni HC III GOVT,existing_nbs,HF0854,Bamu HOSPITAL,12.652,partial,Lwengo HC IV,HC IV,Government,SOUTH BUGANDA,31.44103,-0.43718,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0116,HF0494,19.9,Lwengo Kinoni HC III GOVT,existing_nbs,HF0854,Bamu HOSPITAL,12.652,partial,Masaka REGIONAL REF HOSPITAL,RR Hospital,Government,SOUTH BUGANDA,31.7344,-0.3294,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0076,HF1269,0,Kaberamaido HC IV,existing_nbs,HF2019,Dokolo HC IV,15.64,partial,Kaberamaido HC IV,HC IV,Government,TESO,33.16359,1.77863,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0029,HF2211,22,Abako-Elim HC II,existing_nbs,HF1868,Alebtong HC IV,16.159,partial,Amach HC IV,HC IV,Government,LANGO,33.00555,2.11163,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0065,HF1207,15,Buwenge HC IV,existing_nbs,HF0298,Kangulumira HC IV,17.083,partial,Budondo HC IV,HC IV,Government,BUSOGA,33.16165,0.51725,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0065,HF1209,22.1,Buwenge HC IV,existing_nbs,HF0298,Kangulumira HC IV,17.083,partial,Bugembe HC IV,HC IV,Government,BUSOGA,33.23708,0.46433,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0065,HF1234,0.6,Buwenge HC IV,existing_nbs,HF0298,Kangulumira HC IV,17.083,partial,Buwenge NGO Hospital,General Hospital,Private Not For Profit,BUSOGA,33.17278,0.64781,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0065,HF1246,24.4,Buwenge HC IV,existing_nbs,HF0298,Kangulumira HC IV,17.083,partial,Walukuba HC IV,HC IV,Government,BUSOGA,33.22508,0.43824,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0065,HF1249,21.8,Buwenge HC IV,existing_nbs,HF0298,Kangulumira HC IV,17.083,partial,Mpumudde HC IV,HC IV,Government,BUSOGA,33.21235,0.45993,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0065,HF1250,21,Buwenge HC IV,existing_nbs,HF0298,Kangulumira HC IV,17.083,partial,Kakira Worker's HOSPITAL,General Hospital,Private For Profit,BUSOGA,33.29428,0.50921,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0065,HF1322,10.7,Buwenge HC IV,existing_nbs,HF0298,Kangulumira HC IV,17.083,partial,Nankandulo HC IV,HC IV,Government,BUSOGA,33.07762,0.67919,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0065,HF1475,22,Buwenge HC IV,existing_nbs,HF0298,Kangulumira HC IV,17.083,partial,Kiyunga HC IV,HC IV,Government,BUSOGA,33.33111,0.76647,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0121,HF1130,20.8,Mbale REGIONAL REF HOSPITAL,existing_nbs,HF1530,Busiu HC IV,17.252,partial,Kabasa Memorial HOSPITAL,General Hospital,Private Not For Profit,BUKEDI,34.0327,0.95557,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0121,HF1492,17.7,Mbale REGIONAL REF HOSPITAL,existing_nbs,HF1530,Busiu HC IV,17.252,partial,Bubulo HC IV,HC IV,Government,BUGISU,34.28036,0.9567,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0121,HF1524,6.9,Mbale REGIONAL REF HOSPITAL,existing_nbs,HF1530,Busiu HC IV,17.252,partial,Bufumbo HC IV,HC IV,Government,BUGISU,34.23246,1.10115,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0121,HF1532,0.6,Mbale REGIONAL REF HOSPITAL,existing_nbs,HF1530,Busiu HC IV,17.252,partial,Cure Children's Hospital,General Hospital,Private Not For Profit,BUGISU,34.171724,1.073644,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0121,HF1533,1.5,Mbale REGIONAL REF HOSPITAL,existing_nbs,HF1530,Busiu HC IV,17.252,partial,Namatala HC IV,HC IV,Government,BUGISU,34.16483,1.085432,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0121,HF1647,20.1,Mbale REGIONAL REF HOSPITAL,existing_nbs,HF1530,Busiu HC IV,17.252,partial,Budadiri HC IV,HC IV,Government,BUGISU,34.32841,1.17328,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0121,HF1667,13,Mbale REGIONAL REF HOSPITAL,existing_nbs,HF1530,Busiu HC IV,17.252,partial,Buwasa HC IV,HC IV,Government,BUGISU,34.27368,1.14055,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0094,HF1405,0,Kibuku HC IV,existing_nbs,HF0998,Budaka HC IV,17.262,partial,Kibuku HC IV,HC IV,Government,BUKEDI,33.79967,1.05046,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0094,HF1600,21.3,Kibuku HC IV,existing_nbs,HF0998,Budaka HC IV,17.262,partial,Butebo HC IV,HC IV,Government,BUKEDI,33.918499,1.201598,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0094,HF1617,17.2,Kibuku HC IV,existing_nbs,HF0998,Budaka HC IV,17.262,partial,Pallisa HOSPITAL,General Hospital,Government,BUKEDI,33.711171,1.178446,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0147,HF2375,18.5,Omoro HC III,existing_nbs,HF1868,Alebtong HC IV,17.526,partial,Orum HC IV,HC IV,Government,LANGO,33.34886,2.40098,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0148,HF2375,18.5,Omoro HC III,existing_nbs,HF1868,Alebtong HC IV,17.526,partial,Orum HC IV,HC IV,Government,LANGO,33.34886,2.40098,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0108,HF1269,16.6,Kwera HC III,existing_nbs,HF2019,Dokolo HC IV,18.031,partial,Kaberamaido HC IV,HC IV,Government,TESO,33.16359,1.77863,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0085,HF1269,14.7,Kangai HC III,existing_nbs,HF2019,Dokolo HC IV,18.355,partial,Kaberamaido HC IV,HC IV,Government,TESO,33.16359,1.77863,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0047,HF1629,0,Apapai HC IV,existing_nbs,HF1643,Serere HC IV,18.823,partial,Apapai HC IV,HC IV,Government,TESO,33.29067,1.52954,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0008,HF1697,13.4,Asuret HC III,collocated_candidate_nbs,HF1643,Serere HC IV,19.482,partial,Princes Diana HC IV,HC IV,Government,TESO,33.62114,1.74807,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0008,HF1698,10.1,Asuret HC III,collocated_candidate_nbs,HF1643,Serere HC IV,19.482,partial,Soroti REGIONAL REF HOSPITAL,RR Hospital,Government,TESO,33.61395,1.71849,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0141,HF1207,24.5,Nawanyago HC III,existing_nbs,HF0298,Kangulumira HC IV,21.378,partial,Budondo HC IV,HC IV,Government,BUSOGA,33.16165,0.51725,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0141,HF1234,10.4,Nawanyago HC III,existing_nbs,HF0298,Kangulumira HC IV,21.378,partial,Buwenge NGO Hospital,General Hospital,Private Not For Profit,BUSOGA,33.17278,0.64781,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0141,HF1322,10.3,Nawanyago HC III,existing_nbs,HF0298,Kangulumira HC IV,21.378,partial,Nankandulo HC IV,HC IV,Government,BUSOGA,33.07762,0.67919,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0141,HF1340,23,Nawanyago HC III,existing_nbs,HF0298,Kangulumira HC IV,21.378,partial,Namwendwa HC IV,HC IV,Government,BUSOGA,33.24814,0.92059,0,0,1,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0141,HF1475,20.6,Nawanyago HC III,existing_nbs,HF0298,Kangulumira HC IV,21.378,partial,Kiyunga HC IV,HC IV,Government,BUSOGA,33.33111,0.76647,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0032,HF0966,18.1,Acowa HC III,existing_nbs,HF0975,Kapelebyong HC IV,22.617,partial,Amuria HC IV,HC IV,Government,TESO,33.64034,2.03481,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0125,HF0537,24.6,Mpigi   HC IV,existing_nbs,HF0052,Gombe HOSPITAL,23.588,partial,Mwera HC IV,HC IV,Government,NORTH BUGANDA,32.12009,0.31608,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0125,HF0583,0,Mpigi   HC IV,existing_nbs,HF0052,Gombe HOSPITAL,23.588,partial,Mpigi HC IV,HC IV,Government,SOUTH BUGANDA,32.32213,0.22554,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0125,HF0883,21.8,Mpigi   HC IV,existing_nbs,HF0052,Gombe HOSPITAL,23.588,partial,Luwunga Barracks HC IV,HC IV,NA,KAMPALA,32.40523,0.40431,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0033,HF2375,18.4,Adwir HC II,existing_nbs,HF1868,Alebtong HC IV,26.429,moderate_partial,Orum HC IV,HC IV,Government,LANGO,33.34886,2.40098,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0007,HF2205,22.1,Apala HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,26.711,moderate_partial,Ayira Health Services,HC IV,Private For Profit,LANGO,32.89498,2.26901,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0007,HF2206,22.6,Apala HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,26.711,moderate_partial,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,32.90135,2.25553,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0007,HF2222,24.2,Apala HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,26.711,moderate_partial,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,32.89773,2.23864,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0007,HF2228,12.4,Apala HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,26.711,moderate_partial,Ogur HC IV,HC IV,Government,LANGO,32.93588,2.44195,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0166,HF1697,3.6,TASO Soroti CLINIC,existing_nbs,HF1643,Serere HC IV,27.502,moderate_partial,Princes Diana HC IV,HC IV,Government,TESO,33.62114,1.74807,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0166,HF1698,0.2,TASO Soroti CLINIC,existing_nbs,HF1643,Serere HC IV,27.502,moderate_partial,Soroti REGIONAL REF HOSPITAL,RR Hospital,Government,TESO,33.61395,1.71849,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0156,HF1697,3.4,Soroti REGIONAL REF HOSPITAL,existing_nbs,HF1643,Serere HC IV,27.696,moderate_partial,Princes Diana HC IV,HC IV,Government,TESO,33.62114,1.74807,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0156,HF1698,0,Soroti REGIONAL REF HOSPITAL,existing_nbs,HF1643,Serere HC IV,27.696,moderate_partial,Soroti REGIONAL REF HOSPITAL,RR Hospital,Government,TESO,33.61395,1.71849,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0011,HF0290,0,Bbaale HC IV,collocated_candidate_nbs,HF1147,Kidera HC IV,28.027,moderate_partial,Bbaale HC IV,HC IV,Government,NORTH BUGANDA,32.88569,1.1056,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0038,HF2205,21.3,Amach HC IV,existing_nbs,HF2019,Dokolo HC IV,28.192,moderate_partial,Ayira Health Services,HC IV,Private For Profit,LANGO,32.89498,2.26901,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0038,HF2206,19.7,Amach HC IV,existing_nbs,HF2019,Dokolo HC IV,28.192,moderate_partial,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,32.90135,2.25553,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0038,HF2211,0,Amach HC IV,existing_nbs,HF2019,Dokolo HC IV,28.192,moderate_partial,Amach HC IV,HC IV,Government,LANGO,33.00555,2.11163,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0038,HF2222,18.5,Amach HC IV,existing_nbs,HF2019,Dokolo HC IV,28.192,moderate_partial,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,32.89773,2.23864,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0015,HF0966,23.8,Morungatuny HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,28.501,moderate_partial,Amuria HC IV,HC IV,Government,TESO,33.64034,2.03481,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0088,HF0540,23,Kassanda HC IV,existing_nbs,HF0316,Bukomero HC IV,28.768,moderate_partial,Kyantungo HC IV,HC IV,Government,NORTH BUGANDA,32.02506,0.585167,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0088,HF0608,0,Kassanda HC IV,existing_nbs,HF0316,Bukomero HC IV,28.768,moderate_partial,Kassanda HC IV,HC IV,Government,NORTH BUGANDA,31.8214,0.5515,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0088,HF0615,19,Kassanda HC IV,existing_nbs,HF0316,Bukomero HC IV,28.768,moderate_partial,Kiganda HC IV,HC IV,Government,NORTH BUGANDA,31.68427,0.44964,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0028,HF0966,16.1,Tubur HC III,collocated_candidate_nbs,HF1276,Lwala HOSPITAL,28.791,moderate_partial,Amuria HC IV,HC IV,Government,TESO,33.64034,2.03481,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0028,HF1688,8.8,Tubur HC III,collocated_candidate_nbs,HF1276,Lwala HOSPITAL,28.791,moderate_partial,ATIRIR HC IV,HC IV,Government,TESO,33.45841,1.90514,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0021,HF2375,18.2,Olilim HC III,collocated_candidate_nbs,HF1769,Abim HOSPITAL,30.696,moderate_partial,Orum HC IV,HC IV,Government,LANGO,33.34886,2.40098,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0042,HF0966,0,Amuria HC IV,existing_nbs,HF0975,Kapelebyong HC IV,30.798,moderate_partial,Amuria HC IV,HC IV,Government,TESO,33.64034,2.03481,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0042,HF1688,24.8,Amuria HC IV,existing_nbs,HF0975,Kapelebyong HC IV,30.798,moderate_partial,ATIRIR HC IV,HC IV,Government,TESO,33.45841,1.90514,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0002,HF1927,15.7,Abedober HC III,collocated_candidate_nbs,HF1882,Amolatar HC IV,33.767,moderate_partial,Aduku HC IV,HC IV,Government,LANGO,32.71821,1.99544,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0045,HF2152,19.6,Anyeke HC IV,existing_nbs,HF2376,Aber Ngo HOSPITAL,34.537,moderate_partial,Aboke HC IV,HC IV,Government,LANGO,32.6813,2.3513,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0045,HF2400,0,Anyeke HC IV,existing_nbs,HF2376,Aber Ngo HOSPITAL,34.537,moderate_partial,Anyeke HC IV,HC IV,Government,LANGO,32.50921,2.39086,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0142,HF2205,6.1,Ngetta HC III,existing_nbs,HF1868,Alebtong HC IV,35.011,moderate_partial,Ayira Health Services,HC IV,Private For Profit,LANGO,32.89498,2.26901,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0142,HF2206,7.1,Ngetta HC III,existing_nbs,HF1868,Alebtong HC IV,35.011,moderate_partial,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,32.90135,2.25553,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0142,HF2211,24.1,Ngetta HC III,existing_nbs,HF1868,Alebtong HC IV,35.011,moderate_partial,Amach HC IV,HC IV,Government,LANGO,33.00555,2.11163,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0142,HF2222,8.9,Ngetta HC III,existing_nbs,HF1868,Alebtong HC IV,35.011,moderate_partial,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,32.89773,2.23864,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0142,HF2228,14.1,Ngetta HC III,existing_nbs,HF1868,Alebtong HC IV,35.011,moderate_partial,Ogur HC IV,HC IV,Government,LANGO,32.93588,2.44195,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0003,HF2152,10.1,Agulurude HC III,collocated_candidate_nbs,HF2376,Aber Ngo HOSPITAL,35.133,moderate_partial,Aboke HC IV,HC IV,Government,LANGO,32.6813,2.3513,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0003,HF2400,15.5,Agulurude HC III,collocated_candidate_nbs,HF2376,Aber Ngo HOSPITAL,35.133,moderate_partial,Anyeke HC IV,HC IV,Government,LANGO,32.50921,2.39086,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0041,HF0966,9.3,Amuria Abia HC II GOVT,existing_nbs,HF1276,Lwala HOSPITAL,35.686,moderate_partial,Amuria HC IV,HC IV,Government,TESO,33.64034,2.03481,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0041,HF1688,15.6,Amuria Abia HC II GOVT,existing_nbs,HF1276,Lwala HOSPITAL,35.686,moderate_partial,ATIRIR HC IV,HC IV,Government,TESO,33.45841,1.90514,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0111,HF2205,1.6,Lira REGIONAL REF HOSPITAL,existing_nbs,HF1868,Alebtong HC IV,37.286,moderate_partial,Ayira Health Services,HC IV,Private For Profit,LANGO,32.89498,2.26901,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0111,HF2206,0,Lira REGIONAL REF HOSPITAL,existing_nbs,HF1868,Alebtong HC IV,37.286,moderate_partial,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,32.90135,2.25553,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0111,HF2211,19.7,Lira REGIONAL REF HOSPITAL,existing_nbs,HF1868,Alebtong HC IV,37.286,moderate_partial,Amach HC IV,HC IV,Government,LANGO,33.00555,2.11163,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0111,HF2222,1.9,Lira REGIONAL REF HOSPITAL,existing_nbs,HF1868,Alebtong HC IV,37.286,moderate_partial,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,32.89773,2.23864,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0111,HF2228,21,Lira REGIONAL REF HOSPITAL,existing_nbs,HF1868,Alebtong HC IV,37.286,moderate_partial,Ogur HC IV,HC IV,Government,LANGO,32.93588,2.44195,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0149,HF2205,3.4,PAG Mission HC IV,existing_nbs,HF1868,Alebtong HC IV,37.779,moderate_partial,Ayira Health Services,HC IV,Private For Profit,LANGO,32.89498,2.26901,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0149,HF2206,1.9,PAG Mission HC IV,existing_nbs,HF1868,Alebtong HC IV,37.779,moderate_partial,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,32.90135,2.25553,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0149,HF2211,18.5,PAG Mission HC IV,existing_nbs,HF1868,Alebtong HC IV,37.779,moderate_partial,Amach HC IV,HC IV,Government,LANGO,33.00555,2.11163,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0149,HF2222,0,PAG Mission HC IV,existing_nbs,HF1868,Alebtong HC IV,37.779,moderate_partial,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,32.89773,2.23864,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0149,HF2228,22.9,PAG Mission HC IV,existing_nbs,HF1868,Alebtong HC IV,37.779,moderate_partial,Ogur HC IV,HC IV,Government,LANGO,32.93588,2.44195,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0020,HF2410,24.6,Okwang HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,38.783,moderate_partial,5Th Military Division HOSPITAL,General Hospital,Government,ACHOLI,33.00944,2.77578,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0019,HF2205,19.6,Ogur HC IV,collocated_candidate_nbs,HF1868,Alebtong HC IV,38.81,moderate_partial,Ayira Health Services,HC IV,Private For Profit,LANGO,32.89498,2.26901,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0019,HF2206,21,Ogur HC IV,collocated_candidate_nbs,HF1868,Alebtong HC IV,38.81,moderate_partial,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,32.90135,2.25553,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0019,HF2222,22.9,Ogur HC IV,collocated_candidate_nbs,HF1868,Alebtong HC IV,38.81,moderate_partial,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,32.89773,2.23864,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0019,HF2228,0,Ogur HC IV,collocated_candidate_nbs,HF1868,Alebtong HC IV,38.81,moderate_partial,Ogur HC IV,HC IV,Government,LANGO,32.93588,2.44195,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0067,HF2205,2.7,Charis HC III,existing_nbs,HF1868,Alebtong HC IV,38.996,moderate_partial,Ayira Health Services,HC IV,Private For Profit,LANGO,32.89498,2.26901,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0067,HF2206,2,Charis HC III,existing_nbs,HF1868,Alebtong HC IV,38.996,moderate_partial,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,32.90135,2.25553,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0067,HF2211,19.9,Charis HC III,existing_nbs,HF1868,Alebtong HC IV,38.996,moderate_partial,Amach HC IV,HC IV,Government,LANGO,33.00555,2.11163,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0067,HF2222,1.5,Charis HC III,existing_nbs,HF1868,Alebtong HC IV,38.996,moderate_partial,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,32.89773,2.23864,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0067,HF2228,22.3,Charis HC III,existing_nbs,HF1868,Alebtong HC IV,38.996,moderate_partial,Ogur HC IV,HC IV,Government,LANGO,32.93588,2.44195,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0018,HF2152,23.8,Ober HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,40.363,moderate_partial,Aboke HC IV,HC IV,Government,LANGO,32.6813,2.3513,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0018,HF2205,2.7,Ober HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,40.363,moderate_partial,Ayira Health Services,HC IV,Private For Profit,LANGO,32.89498,2.26901,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0018,HF2206,3.1,Ober HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,40.363,moderate_partial,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,32.90135,2.25553,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0018,HF2211,21.8,Ober HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,40.363,moderate_partial,Amach HC IV,HC IV,Government,LANGO,33.00555,2.11163,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0018,HF2222,3.4,Ober HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,40.363,moderate_partial,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,32.89773,2.23864,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0018,HF2228,21.6,Ober HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,40.363,moderate_partial,Ogur HC IV,HC IV,Government,LANGO,32.93588,2.44195,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0153,HF2522,20.4,Rugazi HC IV,existing_nbs,HF2594,Ibanda HOSPITAL,41.017,moderate_partial,Comboni HOSPITAL,General Hospital,Private Not For Profit,ANKOLE,30.11953,-0.44297,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0153,HF3255,0,Rugazi HC IV,existing_nbs,HF2594,Ibanda HOSPITAL,41.017,moderate_partial,Rugazi HC IV,HC IV,Government,ANKOLE,30.102629,-0.259324,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0040,HF2152,21.4,Amuca SDA HC III,existing_nbs,HF1868,Alebtong HC IV,42.495,moderate_partial,Aboke HC IV,HC IV,Government,LANGO,32.6813,2.3513,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0040,HF2205,4.5,Amuca SDA HC III,existing_nbs,HF1868,Alebtong HC IV,42.495,moderate_partial,Ayira Health Services,HC IV,Private For Profit,LANGO,32.89498,2.26901,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0040,HF2206,5.4,Amuca SDA HC III,existing_nbs,HF1868,Alebtong HC IV,42.495,moderate_partial,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,32.90135,2.25553,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0040,HF2211,24,Amuca SDA HC III,existing_nbs,HF1868,Alebtong HC IV,42.495,moderate_partial,Amach HC IV,HC IV,Government,LANGO,33.00555,2.11163,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0040,HF2222,5.7,Amuca SDA HC III,existing_nbs,HF1868,Alebtong HC IV,42.495,moderate_partial,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,32.89773,2.23864,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0040,HF2228,21.4,Amuca SDA HC III,existing_nbs,HF1868,Alebtong HC IV,42.495,moderate_partial,Ogur HC IV,HC IV,Government,LANGO,32.93588,2.44195,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0014,HF2167,13.2,Lokitelaebu HC III,collocated_candidate_nbs,HF1769,Abim HOSPITAL,51.085,long,Kotido HC IV,HC IV,Government,KARAMOJA,34.11676,3.01504,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0101,HF2931,11,Kisiita HC III,existing_nbs,HF2927,Kagadi HOSPITAL,52.682,long,Kakindo HC IV,HC IV,Government,BUNYORO,31.184459,1.073698,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0024,HF2057,10.4,Opit HC III,collocated_candidate_nbs,HF2376,Aber Ngo HOSPITAL,56.129,long,Lalogi HC IV,HC IV,Government,ACHOLI,32.56665,2.63611,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0110,HF2057,0,Lalogi HC IV,existing_nbs,HF2376,Aber Ngo HOSPITAL,61.495,long,Lalogi HC IV,HC IV,Government,ACHOLI,32.56665,2.63611,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0009,HF2027,0,Awach HC IV,collocated_candidate_nbs,HF2124,Kitgum HOSPITAL,64.463,long,Awach HC IV,HC IV,Government,ACHOLI,32.40077,2.97058,1,0,0,0,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0009,HF2028,25,Awach HC IV,collocated_candidate_nbs,HF2124,Kitgum HOSPITAL,64.463,long,Gulu Military Hospital,General Hospital,Government,ACHOLI,32.28098536,2.779666686,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0009,HF2067,23.9,Awach HC IV,collocated_candidate_nbs,HF2124,Kitgum HOSPITAL,64.463,long,Gulu Regional Referal Hospital,RR Hospital,Government,ACHOLI,32.29853,2.78069,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0073,HF2565,1.7,Hoima REGIONAL REF HOSPITAL,existing_nbs,HF0327,Kiboga HOSPITAL,73.942,long,Azur HC III,HC IV,Private Not For Profit,BUNYORO,31.34196,1.43875,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0073,HF2566,0,Hoima REGIONAL REF HOSPITAL,existing_nbs,HF0327,Kiboga HOSPITAL,73.942,long,Hoima REGIONAL REF HOSPITAL,RR Hospital,Government,BUNYORO,31.354685,1.430788,0,0,0,1,1,0.75,weak_hub_score_1,FALSE
+SPOKE_0073,HF2570,21,Hoima REGIONAL REF HOSPITAL,existing_nbs,HF0327,Kiboga HOSPITAL,73.942,long,Kigorobya HC IV,HC IV,Government,BUNYORO,31.30888,1.61492,0,0,0,0,0,1,not_ready_score_0,FALSE
+SPOKE_0073,HF2578,17.8,Hoima REGIONAL REF HOSPITAL,existing_nbs,HF0327,Kiboga HOSPITAL,73.942,long,Kikuube HC IV,HC IV,Government,BUNYORO,31.22218,1.34046,0,0,0,0,0,1,not_ready_score_0,FALSE

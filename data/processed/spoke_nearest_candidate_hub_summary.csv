@@ -1,0 +1,169 @@
+spoke_id,spoke_name,spoke_type,nearest_candidate_hub_id,nearest_candidate_hub_name,nearest_candidate_hub_level,nearest_candidate_hub_ownership,nearest_candidate_hub_subregion,nearest_candidate_distance_km,nearest_candidate_distance_band,nearest_candidate_service_score,nearest_candidate_readiness
+SPOKE_0030,Abim HOSPITAL,existing_nbs,HF1769,Abim HOSPITAL,General Hospital,Government,KARAMOJA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0031,Aboke HC IV,existing_nbs,HF2152,Aboke HC IV,HC IV,Government,LANGO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0036,Alebtong HC IV,existing_nbs,HF1868,Alebtong HC IV,HC IV,Government,LANGO,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0038,Amach HC IV,existing_nbs,HF2211,Amach HC IV,HC IV,Government,LANGO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0039,Amolatar HC IV,existing_nbs,HF1882,Amolatar HC IV,HC IV,Government,LANGO,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0042,Amuria HC IV,existing_nbs,HF0966,Amuria HC IV,HC IV,Government,TESO,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0044,Anaka HOSPITAL,existing_nbs,HF2353,Anaka HOSPITAL,General Hospital,Government,ACHOLI,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0045,Anyeke HC IV,existing_nbs,HF2400,Anyeke HC IV,HC IV,Government,LANGO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0046,Apac HOSPITAL,existing_nbs,HF1934,Apac HOSPITAL,General Hospital,Government,LANGO,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0047,Apapai HC IV,existing_nbs,HF1629,Apapai HC IV,HC IV,Government,TESO,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0049,Atutur HOSPITAL,existing_nbs,HF1408,Atutur HOSPITAL,General Hospital,Government,TESO,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0009,Awach HC IV,collocated_candidate_nbs,HF2027,Awach HC IV,HC IV,Government,ACHOLI,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0011,Bbaale HC IV,collocated_candidate_nbs,HF0290,Bbaale HC IV,HC IV,Government,NORTH BUGANDA,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0051,Budaka HC IV,existing_nbs,HF0998,Budaka HC IV,HC IV,Government,BUKEDI,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0052,Bududa HOSPITAL,existing_nbs,HF1015,Bududa HOSPITAL,General Hospital,Government,BUGISU,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0053,Bugiri HOSPITAL,existing_nbs,HF1032,Bugiri HOSPITAL,General Hospital,Government,BUSOGA,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0054,Bugobero HC IV,existing_nbs,HF1483,Bugobero HC IV,HC IV,Government,BUGISU,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0055,Buikwe St. Charles Lwanga HOSPITAL,existing_nbs,HF0002,Buikwe St. Charles Lwanga HOSPITAL,General Hospital,Private Not For Profit,NORTH BUGANDA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0057,Bukedea HC IV,existing_nbs,HF1065,Bukedea HC IV,HC IV,Government,TESO,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0058,Bumanya HC IV,existing_nbs,HF1281,Bumanya HC IV,HC IV,Government,BUSOGA,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0059,Busaru HC IV,existing_nbs,HF2494,Busaru HC IV,HC IV,Private Not For Profit,TORO,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0060,Busiu HC IV,existing_nbs,HF1530,Busiu HC IV,HC IV,Government,BUGISU,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0061,Busolwe HOSPITAL,existing_nbs,HF1125,Busolwe HOSPITAL,General Hospital,Government,BUKEDI,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0062,Butabika NATIONAL REFERAL HOSPITAL,existing_nbs,HF0263,Butabika NATIONAL REFERAL HOSPITAL,NR Hospital,Government,KAMPALA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0063,Butebo HC IV,existing_nbs,HF1600,Butebo HC IV,HC IV,Government,BUKEDI,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0012,Buyinja  HC IV,collocated_candidate_nbs,HF1547,Buyinja HC IV,HC IV,Government,BUSOGA,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0066,Buyinja  HC IV,existing_nbs,HF1547,Buyinja HC IV,HC IV,Government,BUSOGA,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0068,Dabani HOSPITAL,existing_nbs,HF1113,Dabani HOSPITAL,General Hospital,Private Not For Profit,BUKEDI,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0069,Dokolo HC IV,existing_nbs,HF2019,Dokolo HC IV,HC IV,Government,LANGO,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0070,Fort Portal Regional Referral Hospital,existing_nbs,HF2806,Fort Portal Regional Referral Hospital,RR Hospital,Government,TORO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0071,Gombe HOSPITAL,existing_nbs,HF0052,Gombe HOSPITAL,General Hospital,Government,SOUTH BUGANDA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0072,Gulu Regional Referal Hospital,existing_nbs,HF2067,Gulu Regional Referal Hospital,RR Hospital,Government,ACHOLI,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0073,Hoima REGIONAL REF HOSPITAL,existing_nbs,HF2566,Hoima REGIONAL REF HOSPITAL,RR Hospital,Government,BUNYORO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0075,Iganga HOSPITAL,existing_nbs,HF1166,Iganga HOSPITAL,General Hospital,Government,BUSOGA,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0076,Kaberamaido HC IV,existing_nbs,HF1269,Kaberamaido HC IV,HC IV,Government,TESO,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0078,Kagando HOSPITAL,existing_nbs,HF2891,Kagando HOSPITAL,General Hospital,Private Not For Profit,TORO,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0079,Kalagala HC IV,existing_nbs,HF0376,Kalagala HC IV,HC IV,Government,NORTH BUGANDA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0080,Kalisizo HOSPITAL,existing_nbs,HF0777,Kalisizo HOSPITAL,General Hospital,Government,SOUTH BUGANDA,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0081,Kalongo Ambrosoli Memorial HOSPITAL,existing_nbs,HF1831,Kalongo Ambrosoli Memorial HOSPITAL,General Hospital,Private Not For Profit,ACHOLI,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0083,Kamuli HOSPITAL,existing_nbs,HF1312,Kamuli HOSPITAL,General Hospital,Government,BUSOGA,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0084,Kamuli Mission Hospital,existing_nbs,HF1313,Kamuli Mission Hospital,General Hospital,Private Not For Profit,BUSOGA,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0086,Kangulumira HC IV,existing_nbs,HF0298,Kangulumira HC IV,HC IV,Government,NORTH BUGANDA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0088,Kassanda HC IV,existing_nbs,HF0608,Kassanda HC IV,HC IV,Government,NORTH BUGANDA,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0089,Katakwi General Hospital,existing_nbs,HF1375,Katakwi General Hospital,General Hospital,Government,TESO,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0091,Kawolo HOSPITAL,existing_nbs,HF0007,Kawolo HOSPITAL,General Hospital,Government,NORTH BUGANDA,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0092,Kayunga Hospital,existing_nbs,HF0304,Kayunga Hospital,General Hospital,Government,NORTH BUGANDA,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0093,Kiboga HOSPITAL,existing_nbs,HF0327,Kiboga HOSPITAL,General Hospital,Government,NORTH BUGANDA,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0094,Kibuku HC IV,existing_nbs,HF1405,Kibuku HC IV,HC IV,Government,BUKEDI,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0095,Kibuli HOSPITAL,existing_nbs,HF0203,Kibuli HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0096,Kidera HC IV,existing_nbs,HF1147,Kidera HC IV,HC IV,Government,BUSOGA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0097,Kiganda HC IV,existing_nbs,HF0615,Kiganda HC IV,HC IV,Government,NORTH BUGANDA,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0098,Kigandalo HC IV,existing_nbs,HF1515,Kigandalo HC IV,HC IV,Government,BUSOGA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0099,Kiruddu,existing_nbs,HF0216,Kiruddu,NR Hospital,Government,KAMPALA,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0100,Kiryandongo HOSPITAL,existing_nbs,HF3019,Kiryandongo HOSPITAL,General Hospital,Government,BUNYORO,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0103,Kitgum HOSPITAL,existing_nbs,HF2124,Kitgum HOSPITAL,General Hospital,Government,ACHOLI,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0104,Kitgum HOSPITAL,existing_nbs,HF2124,Kitgum HOSPITAL,General Hospital,Government,ACHOLI,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0105,Kiyunga HC IV,existing_nbs,HF1475,Kiyunga HC IV,HC IV,Government,BUSOGA,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0106,Koboko Hospital,existing_nbs,HF2145,Koboko Hospital,General Hospital,Government,WEST NILE,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0107,Kumi HC IV,existing_nbs,HF1419,Kumi HC IV,HC IV,Government,TESO,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0110,Lalogi HC IV,existing_nbs,HF2057,Lalogi HC IV,HC IV,Government,ACHOLI,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0111,Lira REGIONAL REF HOSPITAL,existing_nbs,HF2206,Lira REGIONAL REF HOSPITAL,RR Hospital,Government,LANGO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0113,Lubaga HOSPITAL,existing_nbs,HF0281,Lubaga HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0115,Lwala HOSPITAL,existing_nbs,HF1276,Lwala HOSPITAL,General Hospital,Private Not For Profit,TESO,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0117,Lyantonde HOSPITAL,existing_nbs,HF0465,Lyantonde HOSPITAL,General Hospital,Government,SOUTH BUGANDA,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0120,Masaka REGIONAL REF HOSPITAL,existing_nbs,HF0494,Masaka REGIONAL REF HOSPITAL,RR Hospital,Government,SOUTH BUGANDA,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0122,Mengo HOSPITAL,existing_nbs,HF0282,Mengo HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0124,Mityana HOSPITAL,existing_nbs,HF0550,Mityana HOSPITAL,General Hospital,Government,NORTH BUGANDA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0125,Mpigi   HC IV,existing_nbs,HF0583,Mpigi HC IV,HC IV,Government,SOUTH BUGANDA,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0126,Mubende RR HOSPITAL,existing_nbs,HF0650,Mubende RR HOSPITAL,RR Hospital,Government,NORTH BUGANDA,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0133,Naguru  Hospital  - China Uganda Friendship,existing_nbs,HF0264,Naguru Hospital - China Uganda Friendship,RR Hospital,Government,KAMPALA,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0134,Nakaseke HOSPITAL,existing_nbs,HF0718,Nakaseke HOSPITAL,General Hospital,Government,NORTH BUGANDA,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0135,Nakasongola HC IV,existing_nbs,HF0752,Nakasongola HC IV,HC IV,Government,NORTH BUGANDA,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0139,Namwendwa HC IV,existing_nbs,HF1340,Namwendwa HC IV,HC IV,Government,BUSOGA,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0140,Nankoma HC IV,existing_nbs,HF1063,Nankoma HC IV,HC IV,Government,BUSOGA,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0143,Ngora Gvt HC IV,existing_nbs,HF1595,Ngora Gvt HC IV,HC IV,Government,TESO,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0144,Ngora Ngo HOSPITAL,existing_nbs,HF1591,Ngora Ngo HOSPITAL,General Hospital,Private Not For Profit,TESO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0145,Nsinze HC IV,existing_nbs,HF1583,Nsinze HC IV,HC IV,Government,BUSOGA,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0019,Ogur HC IV,collocated_candidate_nbs,HF2228,Ogur HC IV,HC IV,Government,LANGO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0149,PAG Mission HC IV,existing_nbs,HF2222,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0150,Pajule HC IV,existing_nbs,HF2428,Pajule HC IV,HC IV,Government,ACHOLI,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0151,Pallisa HOSPITAL,existing_nbs,HF1617,Pallisa HOSPITAL,General Hospital,Government,BUKEDI,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0027,Patongo HC III,collocated_candidate_nbs,HF1856,Patongo HC III,HC IV,Government,ACHOLI,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0153,Rugazi HC IV,existing_nbs,HF3255,Rugazi HC IV,HC IV,Government,ANKOLE,0,0_to_25_km,0,not_ready_score_0
+SPOKE_0155,Serere HC IV,existing_nbs,HF1643,Serere HC IV,HC IV,Government,TESO,0,0_to_25_km,2,partial_hub_score_2
+SPOKE_0156,Soroti REGIONAL REF HOSPITAL,existing_nbs,HF1698,Soroti REGIONAL REF HOSPITAL,RR Hospital,Government,TESO,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0159,St. Francis Nsambya HOSPITAL,existing_nbs,HF0204,St. Francis Nsambya HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,0,0_to_25_km,3,strong_hub_score_3
+SPOKE_0161,St. Mary's Hospital Lacor,existing_nbs,HF2029,St. Mary's Hospital Lacor,General Hospital,Private Not For Profit,ACHOLI,0,0_to_25_km,1,weak_hub_score_1
+SPOKE_0167,Tororo General HOSPITAL,existing_nbs,HF1752,Tororo General HOSPITAL,General Hospital,Government,BUKEDI,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0168,Villa Maria HOSPITAL,existing_nbs,HF0093,Villa Maria HOSPITAL,General Hospital,Private Not For Profit,SOUTH BUGANDA,0,0_to_25_km,4,full_hub_score_4
+SPOKE_0166,TASO Soroti CLINIC,existing_nbs,HF1698,Soroti REGIONAL REF HOSPITAL,RR Hospital,Government,TESO,0.197,0_to_25_km,1,weak_hub_score_1
+SPOKE_0152,Rakai Health Sciences Program CLINIC,existing_nbs,HF0777,Kalisizo HOSPITAL,General Hospital,Government,SOUTH BUGANDA,0.298,0_to_25_km,4,full_hub_score_4
+SPOKE_0163,TASO Gulu Clinic,existing_nbs,HF2067,Gulu Regional Referal Hospital,RR Hospital,Government,ACHOLI,0.452,0_to_25_km,1,weak_hub_score_1
+SPOKE_0037,Alive Medical Services HC III,existing_nbs,HF0202,International Hospital Kampala (IHK),General Hospital,Private For Profit,KAMPALA,0.511,0_to_25_km,0,not_ready_score_0
+SPOKE_0121,Mbale REGIONAL REF HOSPITAL,existing_nbs,HF1532,Cure Children's Hospital,General Hospital,Private Not For Profit,BUGISU,0.569,0_to_25_km,1,weak_hub_score_1
+SPOKE_0065,Buwenge HC IV,existing_nbs,HF1234,Buwenge NGO Hospital,General Hospital,Private Not For Profit,BUSOGA,0.605,0_to_25_km,1,weak_hub_score_1
+SPOKE_0160,"St. Francis,  HC III",existing_nbs,HF0550,Mityana HOSPITAL,General Hospital,Government,NORTH BUGANDA,0.849,0_to_25_km,2,partial_hub_score_2
+SPOKE_0164,TASO Masaka CLINIC,existing_nbs,HF0494,Masaka REGIONAL REF HOSPITAL,RR Hospital,Government,SOUTH BUGANDA,1.107,0_to_25_km,1,weak_hub_score_1
+SPOKE_0129,Mulago National Hospital- MUJHU Clinic,existing_nbs,HF0118,Kololo HOSPITAL,General Hospital,Private For Profit,KAMPALA,1.174,0_to_25_km,3,strong_hub_score_3
+SPOKE_0102,Kiswa HC III,existing_nbs,HF0264,Naguru Hospital - China Uganda Friendship,RR Hospital,Government,KAMPALA,1.285,0_to_25_km,0,not_ready_score_0
+SPOKE_0165,TASO Mulago CLINIC,existing_nbs,HF0118,Kololo HOSPITAL,General Hospital,Private For Profit,KAMPALA,1.386,0_to_25_km,3,strong_hub_score_3
+SPOKE_0067,Charis HC III,existing_nbs,HF2222,PAG Mission HC IV,HC IV,Private Not For Profit,LANGO,1.514,0_to_25_km,1,weak_hub_score_1
+SPOKE_0119,Makindye Police HC III,existing_nbs,HF0216,Kiruddu,NR Hospital,Government,KAMPALA,1.592,0_to_25_km,1,weak_hub_score_1
+SPOKE_0087,Kasese Municipal Council HC III,existing_nbs,HF2886,St. Paul HC IV,HC IV,Private Not For Profit,TORO,1.678,0_to_25_km,0,not_ready_score_0
+SPOKE_0130,Nabiganda HC III,existing_nbs,HF1130,Kabasa Memorial HOSPITAL,General Hospital,Private Not For Profit,BUKEDI,1.737,0_to_25_km,0,not_ready_score_0
+SPOKE_0025,Padibe West HC III,collocated_candidate_nbs,HF2190,Padibe HC IV,HC IV,Government,ACHOLI,1.783,0_to_25_km,1,weak_hub_score_1
+SPOKE_0132,Nabweru HC III,existing_nbs,HF0283,Namungoona Orthodox Hospital HC III,General Hospital,Private Not For Profit,KAMPALA,2.108,0_to_25_km,0,not_ready_score_0
+SPOKE_0114,Lufuka Valley HC III,existing_nbs,HF0948,Ndejje HC IV,HC IV,Government,KAMPALA,2.25,0_to_25_km,0,not_ready_score_0
+SPOKE_0162,St. Matia Mulumba HC III,existing_nbs,HF0615,Kiganda HC IV,HC IV,Government,NORTH BUGANDA,2.403,0_to_25_km,1,weak_hub_score_1
+SPOKE_0018,Ober HC III,collocated_candidate_nbs,HF2205,Ayira Health Services,HC IV,Private For Profit,LANGO,2.72,0_to_25_km,0,not_ready_score_0
+SPOKE_0074,Hope Clinic Lukuli HC II,existing_nbs,HF0204,St. Francis Nsambya HOSPITAL,General Hospital,Private Not For Profit,KAMPALA,2.959,0_to_25_km,3,strong_hub_score_3
+SPOKE_0118,Magala HC III,existing_nbs,HF0550,Mityana HOSPITAL,General Hospital,Government,NORTH BUGANDA,3.15,0_to_25_km,2,partial_hub_score_2
+SPOKE_0090,Kawempe Home Care Initiative CLINIC,existing_nbs,HF0283,Namungoona Orthodox Hospital HC III,General Hospital,Private Not For Profit,KAMPALA,3.199,0_to_25_km,0,not_ready_score_0
+SPOKE_0128,Mulagi HC III,existing_nbs,HF1125,Busolwe HOSPITAL,General Hospital,Government,BUKEDI,3.309,0_to_25_km,4,full_hub_score_4
+SPOKE_0040,Amuca SDA HC III,existing_nbs,HF2205,Ayira Health Services,HC IV,Private For Profit,LANGO,4.519,0_to_25_km,0,not_ready_score_0
+SPOKE_0157,Ssunga HC III,existing_nbs,HF0505,Kiyumba HC IV,HC IV,Government,SOUTH BUGANDA,5.852,0_to_25_km,0,not_ready_score_0
+SPOKE_0142,Ngetta HC III,existing_nbs,HF2205,Ayira Health Services,HC IV,Private For Profit,LANGO,6.076,0_to_25_km,0,not_ready_score_0
+SPOKE_0131,Nabisoigi HC III,existing_nbs,HF1583,Nsinze HC IV,HC IV,Government,BUSOGA,6.104,0_to_25_km,1,weak_hub_score_1
+SPOKE_0034,Akide HC II,existing_nbs,HF1431,Kumi NGO HOSPITAL,General Hospital,Private Not For Profit,TESO,6.188,0_to_25_km,3,strong_hub_score_3
+SPOKE_0077,Kadama HC III,existing_nbs,HF0998,Budaka HC IV,HC IV,Government,BUKEDI,7.322,0_to_25_km,2,partial_hub_score_2
+SPOKE_0082,Kamaca HC III,existing_nbs,HF1065,Bukedea HC IV,HC IV,Government,TESO,8.408,0_to_25_km,0,not_ready_score_0
+SPOKE_0028,Tubur HC III,collocated_candidate_nbs,HF1688,ATIRIR HC IV,HC IV,Government,TESO,8.759,0_to_25_km,0,not_ready_score_0
+SPOKE_0127,Mukongoro HC III,existing_nbs,HF1421,Kadami HOSPITAL,General Hospital,Private Not For Profit,TESO,8.76,0_to_25_km,4,full_hub_score_4
+SPOKE_0138,Namutumba HC III,existing_nbs,HF1583,Nsinze HC IV,HC IV,Government,BUSOGA,8.926,0_to_25_km,1,weak_hub_score_1
+SPOKE_0041,Amuria Abia HC II GOVT,existing_nbs,HF0966,Amuria HC IV,HC IV,Government,TESO,9.259,0_to_25_km,0,not_ready_score_0
+SPOKE_0016,Namugongo HC III,collocated_candidate_nbs,HF1180,Bugono HC IV,HC IV,Government,BUSOGA,10.052,0_to_25_km,0,not_ready_score_0
+SPOKE_0137,Namugongo HC III,existing_nbs,HF1180,Bugono HC IV,HC IV,Government,BUSOGA,10.052,0_to_25_km,0,not_ready_score_0
+SPOKE_0008,Asuret HC III,collocated_candidate_nbs,HF1698,Soroti REGIONAL REF HOSPITAL,RR Hospital,Government,TESO,10.06,0_to_25_km,1,weak_hub_score_1
+SPOKE_0003,Agulurude HC III,collocated_candidate_nbs,HF2152,Aboke HC IV,HC IV,Government,LANGO,10.086,0_to_25_km,1,weak_hub_score_1
+SPOKE_0023,Ongako HC III,collocated_candidate_nbs,HF2029,St. Mary's Hospital Lacor,General Hospital,Private Not For Profit,ACHOLI,10.088,0_to_25_km,1,weak_hub_score_1
+SPOKE_0141,Nawanyago HC III,existing_nbs,HF1322,Nankandulo HC IV,HC IV,Government,BUSOGA,10.261,0_to_25_km,0,not_ready_score_0
+SPOKE_0154,Sekiwunga HC III,existing_nbs,HF0583,Mpigi HC IV,HC IV,Government,SOUTH BUGANDA,10.296,0_to_25_km,0,not_ready_score_0
+SPOKE_0024,Opit HC III,collocated_candidate_nbs,HF2057,Lalogi HC IV,HC IV,Government,ACHOLI,10.351,0_to_25_km,1,weak_hub_score_1
+SPOKE_0123,Mifumi HC III,existing_nbs,HF1726,Mulanda HC IV,HC IV,Government,BUKEDI,10.554,0_to_25_km,0,not_ready_score_0
+SPOKE_0050,Baitambogwe HC III,existing_nbs,HF1166,Iganga HOSPITAL,General Hospital,Government,BUSOGA,10.755,0_to_25_km,4,full_hub_score_4
+SPOKE_0064,Buwaiswa HC III,existing_nbs,HF1166,Iganga HOSPITAL,General Hospital,Government,BUSOGA,10.932,0_to_25_km,4,full_hub_score_4
+SPOKE_0101,Kisiita HC III,existing_nbs,HF2931,Kakindo HC IV,HC IV,Government,BUNYORO,10.988,0_to_25_km,0,not_ready_score_0
+SPOKE_0017,Namwiwa HC III,collocated_candidate_nbs,HF1281,Bumanya HC IV,HC IV,Government,BUSOGA,11.174,0_to_25_km,1,weak_hub_score_1
+SPOKE_0158,St. Francis Acumet HC III,existing_nbs,HF0975,Kapelebyong HC IV,HC IV,Government,TESO,11.312,0_to_25_km,2,partial_hub_score_2
+SPOKE_0026,Parombo HC III,collocated_candidate_nbs,HF2330,Angal St. Luke HOSPITAL,General Hospital,Private Not For Profit,WEST NILE,12.232,0_to_25_km,1,weak_hub_score_1
+SPOKE_0007,Apala HC III,collocated_candidate_nbs,HF2228,Ogur HC IV,HC IV,Government,LANGO,12.42,0_to_25_km,1,weak_hub_score_1
+SPOKE_0116,Lwengo Kinoni HC III GOVT,existing_nbs,HF0854,Bamu HOSPITAL,General Hospital,Private For Profit,SOUTH BUGANDA,12.652,0_to_25_km,2,partial_hub_score_2
+SPOKE_0014,Lokitelaebu HC III,collocated_candidate_nbs,HF2167,Kotido HC IV,HC IV,Government,KARAMOJA,13.163,0_to_25_km,0,not_ready_score_0
+SPOKE_0013,Diima HC III,collocated_candidate_nbs,HF2376,Aber Ngo HOSPITAL,General Hospital,Private Not For Profit,LANGO,14.036,0_to_25_km,2,partial_hub_score_2
+SPOKE_0056,Bujubuli HC III,existing_nbs,HF3047,Kyegegwa HC IV,HC IV,Government,TORO,14.221,0_to_25_km,0,not_ready_score_0
+SPOKE_0085,Kangai HC III,existing_nbs,HF1269,Kaberamaido HC IV,HC IV,Government,TESO,14.688,0_to_25_km,0,not_ready_score_0
+SPOKE_0005,Alanyi HC III,collocated_candidate_nbs,HF1868,Alebtong HC IV,HC IV,Government,LANGO,14.798,0_to_25_km,2,partial_hub_score_2
+SPOKE_0035,Alanyi HC III,existing_nbs,HF1868,Alebtong HC IV,HC IV,Government,LANGO,14.798,0_to_25_km,2,partial_hub_score_2
+SPOKE_0002,Abedober HC III,collocated_candidate_nbs,HF1927,Aduku HC IV,HC IV,Government,LANGO,15.728,0_to_25_km,1,weak_hub_score_1
+SPOKE_0029,Abako-Elim HC II,existing_nbs,HF1868,Alebtong HC IV,HC IV,Government,LANGO,16.159,0_to_25_km,2,partial_hub_score_2
+SPOKE_0109,Laguti HC III,existing_nbs,HF2428,Pajule HC IV,HC IV,Government,ACHOLI,16.333,0_to_25_km,1,weak_hub_score_1
+SPOKE_0108,Kwera HC III,existing_nbs,HF1269,Kaberamaido HC IV,HC IV,Government,TESO,16.626,0_to_25_km,0,not_ready_score_0
+SPOKE_0001,Abarilela HC III,collocated_candidate_nbs,HF1375,Katakwi General Hospital,General Hospital,Government,TESO,16.684,0_to_25_km,3,strong_hub_score_3
+SPOKE_0022,Omiya Anyima HC III,collocated_candidate_nbs,HF2140,Naam Okora HC IV,HC IV,Government,ACHOLI,17.206,0_to_25_km,0,not_ready_score_0
+SPOKE_0146,Omiya Anyima HC III,existing_nbs,HF2140,Naam Okora HC IV,HC IV,Government,ACHOLI,17.206,0_to_25_km,0,not_ready_score_0
+SPOKE_0147,Omoro HC III,existing_nbs,HF1868,Alebtong HC IV,HC IV,Government,LANGO,17.526,0_to_25_km,2,partial_hub_score_2
+SPOKE_0148,Omoro HC III,existing_nbs,HF1868,Alebtong HC IV,HC IV,Government,LANGO,17.526,0_to_25_km,2,partial_hub_score_2
+SPOKE_0032,Acowa HC III,existing_nbs,HF0966,Amuria HC IV,HC IV,Government,TESO,18.099,0_to_25_km,0,not_ready_score_0
+SPOKE_0021,Olilim HC III,collocated_candidate_nbs,HF2375,Orum HC IV,HC IV,Government,LANGO,18.152,0_to_25_km,1,weak_hub_score_1
+SPOKE_0033,Adwir HC II,existing_nbs,HF2375,Orum HC IV,HC IV,Government,LANGO,18.352,0_to_25_km,1,weak_hub_score_1
+SPOKE_0112,Lokung HC III,existing_nbs,HF2190,Padibe HC IV,HC IV,Government,ACHOLI,18.787,0_to_25_km,1,weak_hub_score_1
+SPOKE_0048,Atanga HC III,existing_nbs,HF2428,Pajule HC IV,HC IV,Government,ACHOLI,23.457,0_to_25_km,1,weak_hub_score_1
+SPOKE_0015,Morungatuny HC III,collocated_candidate_nbs,HF0966,Amuria HC IV,HC IV,Government,TESO,23.801,0_to_25_km,0,not_ready_score_0
+SPOKE_0020,Okwang HC III,collocated_candidate_nbs,HF2410,5Th Military Division HOSPITAL,General Hospital,Government,ACHOLI,24.565,0_to_25_km,0,not_ready_score_0
+SPOKE_0043,Amuru HC III,existing_nbs,HF2353,Anaka HOSPITAL,General Hospital,Government,ACHOLI,24.627,0_to_25_km,4,full_hub_score_4
+SPOKE_0010,Awere HC III,collocated_candidate_nbs,HF2410,5Th Military Division HOSPITAL,General Hospital,Government,ACHOLI,25.798,25_to_50_km,0,not_ready_score_0
+SPOKE_0006,Alerek HC III,collocated_candidate_nbs,HF1769,Abim HOSPITAL,General Hospital,Government,KARAMOJA,31.81,25_to_50_km,2,partial_hub_score_2
+SPOKE_0004,Akokoro HC III,collocated_candidate_nbs,HF1934,Apac HOSPITAL,General Hospital,Government,LANGO,34.968,25_to_50_km,4,full_hub_score_4
+SPOKE_0136,Nakitoma HC III,existing_nbs,HF0720,Ngoma HC IV,HC IV,Government,NORTH BUGANDA,37.758,25_to_50_km,2,partial_hub_score_2

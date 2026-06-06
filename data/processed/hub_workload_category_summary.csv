@@ -1,0 +1,4 @@
+workload_category,n_hubs,pct_hubs
+high_spoke_load,2,3.2
+low_spoke_load,53,85.5
+moderate_spoke_load,7,11.3

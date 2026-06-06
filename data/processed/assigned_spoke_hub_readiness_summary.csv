@@ -1,0 +1,15 @@
+scenario,scenario_label,assigned_hub_readiness_group,n_routes,pct_routes
+full_score_4,"Full hubs, service score =4",full_hub,168,100
+primary_score_ge_2,"Primary hubs, service score >=2",full_hub,54,32.1
+primary_score_ge_2,"Primary hubs, service score >=2",partial_hub,75,44.6
+primary_score_ge_2,"Primary hubs, service score >=2",strong_hub,39,23.2
+strong_score_ge_3,"Strong hubs, service score >=3",full_hub,101,60.1
+strong_score_ge_3,"Strong hubs, service score >=3",strong_hub,67,39.9
+transfusion_ready,Transfusion-ready hubs,full_hub,49,29.2
+transfusion_ready,Transfusion-ready hubs,partial_hub,36,21.4
+transfusion_ready,Transfusion-ready hubs,strong_hub,31,18.5
+transfusion_ready,Transfusion-ready hubs,weak_hub,52,31
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",full_hub,27,16.1
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",partial_hub,46,27.4
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",strong_hub,30,17.9
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",weak_hub,65,38.7

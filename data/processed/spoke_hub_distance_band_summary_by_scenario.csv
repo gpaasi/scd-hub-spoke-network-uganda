@@ -1,0 +1,21 @@
+scenario,scenario_label,distance_band,n_routes,pct_routes
+primary_score_ge_2,"Primary hubs, service score >=2",0_to_25_km,297,2.4
+primary_score_ge_2,"Primary hubs, service score >=2",25_to_50_km,476,3.8
+primary_score_ge_2,"Primary hubs, service score >=2",50_to_100_km,1492,11.8
+primary_score_ge_2,"Primary hubs, service score >=2",over_100_km,10335,82
+strong_score_ge_3,"Strong hubs, service score >=3",0_to_25_km,210,2.9
+strong_score_ge_3,"Strong hubs, service score >=3",25_to_50_km,253,3.5
+strong_score_ge_3,"Strong hubs, service score >=3",50_to_100_km,790,10.9
+strong_score_ge_3,"Strong hubs, service score >=3",over_100_km,5971,82.7
+full_score_4,"Full hubs, service score =4",0_to_25_km,75,1.9
+full_score_4,"Full hubs, service score =4",25_to_50_km,152,3.9
+full_score_4,"Full hubs, service score =4",50_to_100_km,436,11.3
+full_score_4,"Full hubs, service score =4",over_100_km,3201,82.8
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",0_to_25_km,561,2.2
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",25_to_50_km,982,3.8
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",50_to_100_km,2859,11
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",over_100_km,21638,83.1
+transfusion_ready,Transfusion-ready hubs,0_to_25_km,407,2.1
+transfusion_ready,Transfusion-ready hubs,25_to_50_km,628,3.3
+transfusion_ready,Transfusion-ready hubs,50_to_100_km,1862,9.6
+transfusion_ready,Transfusion-ready hubs,over_100_km,16423,85

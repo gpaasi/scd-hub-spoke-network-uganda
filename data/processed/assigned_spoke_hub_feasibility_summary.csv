@@ -1,0 +1,25 @@
+scenario,scenario_label,route_feasibility,route_feasibility_group,n_routes,pct_routes
+full_score_4,"Full hubs, service score =4",functional,stronger_linkage,68,40.5
+full_score_4,"Full hubs, service score =4",long,distance_constrained_linkage,52,31
+full_score_4,"Full hubs, service score =4",moderate_functional,stronger_linkage,47,28
+full_score_4,"Full hubs, service score =4",very_long,distance_constrained_linkage,1,0.6
+primary_score_ge_2,"Primary hubs, service score >=2",functional,stronger_linkage,66,39.3
+primary_score_ge_2,"Primary hubs, service score >=2",long,distance_constrained_linkage,7,4.2
+primary_score_ge_2,"Primary hubs, service score >=2",moderate_functional,stronger_linkage,24,14.3
+primary_score_ge_2,"Primary hubs, service score >=2",moderate_partial,partial_linkage,26,15.5
+primary_score_ge_2,"Primary hubs, service score >=2",partial,partial_linkage,45,26.8
+strong_score_ge_3,"Strong hubs, service score >=3",functional,stronger_linkage,79,47
+strong_score_ge_3,"Strong hubs, service score >=3",long,distance_constrained_linkage,36,21.4
+strong_score_ge_3,"Strong hubs, service score >=3",moderate_functional,stronger_linkage,53,31.5
+transfusion_ready,Transfusion-ready hubs,functional,stronger_linkage,62,36.9
+transfusion_ready,Transfusion-ready hubs,long,distance_constrained_linkage,1,0.6
+transfusion_ready,Transfusion-ready hubs,moderate_functional,stronger_linkage,18,10.7
+transfusion_ready,Transfusion-ready hubs,moderate_partial,partial_linkage,16,9.5
+transfusion_ready,Transfusion-ready hubs,partial,partial_linkage,19,11.3
+transfusion_ready,Transfusion-ready hubs,unclassified,unclassified,52,31
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",functional,stronger_linkage,52,31
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",long,distance_constrained_linkage,1,0.6
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",moderate_functional,stronger_linkage,5,3
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",moderate_partial,partial_linkage,5,3
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",partial,partial_linkage,40,23.8
+treatment_any_hu_cl_tr,"Treatment-any hubs, HU or CL or TR",unclassified,unclassified,65,38.7

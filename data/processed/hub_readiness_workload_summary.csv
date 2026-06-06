@@ -1,0 +1,4 @@
+hub_readiness,hub_service_score,hubs,linked_spokes,median_linked_spokes,max_linked_spokes,weak_or_long_routes,pct_weak_or_long_routes
+full_hub_score_4,4,20,54,54,54,2,3.7
+strong_hub_score_3,3,15,39,39,39,1,2.6
+partial_hub_score_2,2,27,75,75,75,75,100
