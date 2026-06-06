@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "SCD Hub-and-Spoke Network Analysis for Uganda"
+authors:
+  - family-names: "Paasi"
+    given-names: "George"
+repository-code: "https://github.com/paasig12/scd-hub-spoke-network-uganda"
+version: "0.1.0"
+date-released: "2026-06-06"
+keywords:
+  - sickle cell disease
+  - newborn screening
+  - hub-and-spoke network
+  - service readiness
+  - spatial prioritisation
+  - Uganda
+license: MIT
