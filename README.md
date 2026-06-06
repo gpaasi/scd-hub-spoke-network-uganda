@@ -1,4 +1,3 @@
-# Uganda SCD screening-to-care hub-and-spoke network
 # Uganda SCD Screening-to-Care Hub-and-Spoke Network
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20573711.svg)](https://doi.org/10.5281/zenodo.20573711)
