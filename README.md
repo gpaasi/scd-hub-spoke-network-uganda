@@ -1,5 +1,15 @@
 # Uganda SCD screening-to-care hub-and-spoke network
+# Uganda SCD Screening-to-Care Hub-and-Spoke Network
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20573711.svg)](https://doi.org/10.5281/zenodo.20573711)
+[![GitHub repository](https://img.shields.io/badge/GitHub-repository-blue)](https://github.com/gpaasi/scd-hub-spoke-network-uganda)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Made with R](https://img.shields.io/badge/Made%20with-R-276DC3.svg)](https://www.r-project.org/)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](https://www.python.org/)
+[![Repository status](https://img.shields.io/badge/status-reproducible%20research-brightgreen.svg)](https://github.com/gpaasi/scd-hub-spoke-network-uganda)
+[![Study setting](https://img.shields.io/badge/study%20setting-Uganda-black.svg)](https://github.com/gpaasi/scd-hub-spoke-network-uganda)
+[![Topic](https://img.shields.io/badge/topic-sickle%20cell%20disease-red.svg)](https://github.com/gpaasi/scd-hub-spoke-network-uganda)
+[![Analysis](https://img.shields.io/badge/analysis-hub--and--spoke%20network-purple.svg)](https://github.com/gpaasi/scd-hub-spoke-network-uganda)
 ## Summary
 
 This repository supports the paper, **“Linking newborn screening to essential sickle cell disease care in Uganda: a spatial hub-and-spoke network analysis of access, readiness, and strengthening priorities.”** The repository contains the analysis outputs, manuscript-linked supplementary materials, map figures, metadata, and validation scripts for a national newborn screening-to-sickle cell disease (SCD) care network in Uganda.
